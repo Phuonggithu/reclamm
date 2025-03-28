@@ -1,7 +1,6 @@
-# custom-pool-v3
+DAO PHUONG # custom-pool-v3
 
 Example of external custom pool for Balancer V3. Extend it to create new pool types.
-
 # Requirements
 
 - Node.js v18.x (we recommend using nvm to install it)
